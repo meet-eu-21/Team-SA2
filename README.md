@@ -6,7 +6,7 @@ Topic A : Prediction of TADs
 
 
 # Visuals
-![Position scoring on chromosome X 12.5-17.5 kb](https://github.com/meet-eu-21/Team-SA2/tree/main/Visuals/pos_score_meeteu_X.png?raw=true)
+![Position scoring on chromosome X 12.5-17.5 kb](/Visuals/pos_score_meeteu_X.png)
 
 # Context
 MEET-EU 2021, SU TAD Group 2
