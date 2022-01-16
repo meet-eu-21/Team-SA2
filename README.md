@@ -25,7 +25,7 @@ Based on results of the benchmark done on TADs prediction tools (Dali and Blanch
 
 # Usage
 ## Preprocess
-As generating the input windows through the data generator is highly time consuming, it is highly recommended to pregenerate the data. In order to do so, the "Data_preprocess.ipynb" jupyter notebook will guide you (Feel free to modify the data generator if you don't want to locally store the input data). At the moment, the input windows size is (33,33). This parameter can be change while generating the data but cannot be dynamically passed (feature to be developped).
+As generating the input windows through the data generator is highly time consuming, it is highly recommended to store the windows the data. In order to do so, the "Data_preprocess.ipynb" jupyter notebook will guide you.
 ## Train CNN
 
 The training is done with "run_cnn.py" file.
