@@ -1,15 +1,13 @@
 # Team-SA2
 
-Meet-EU Team SA2
+Meet-EU Team SA2, Topic A : Prediction of TADs
 
-Topic A : Prediction of TADs
-
+Based on results of the benchmark done on TADs prediction tools (Dali and Blanchette, 2015), we designed a CNN in order to discriminate TADs border, given a (1,33,33) windows from HiC data. In the aim of reconstructing full TADs, we also try to predict the length associated with a given border.
 
 # Visuals
 ![Position scoring on chromosome X 12.5-17.5 kb](/Visuals/pos_score_meeteu_X.png)
 
-# Context
-MEET-EU 2021, SU TAD Group 2
+
 
 # Installation
 
