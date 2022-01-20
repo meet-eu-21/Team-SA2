@@ -28,8 +28,9 @@ Based on results of the benchmark done on TADs prediction tools (Dali and Blanch
 As generating the input windows through the data generator is highly time consuming, it is highly recommended to store the windows the data. In order to do so, the "Data_preprocess.ipynb" jupyter notebook will guide you.
 ## Train CNN
 
-The training is done with "run_cnn.py" file.
+The training is done with "train_cnn.py" file.
 ## Make prediction
+Once a model has been trainend ( pretrained model available in the repository), prediction can be done with "test_cnn.py"
 
 ## Evaluation
 
