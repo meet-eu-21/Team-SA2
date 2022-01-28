@@ -26,5 +26,6 @@ Note: in order to use a CPU instead of a GPU, please change the shape format ord
 # Authors and acknowledgments
 Maxime Christophe,  Antoine Szatkownik, Wiam Mansouri
 
+HiCtoolbox module was developed and share by Léopold Caron and Julien Mozziconacci
 
 
