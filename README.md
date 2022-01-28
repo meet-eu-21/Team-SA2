@@ -21,6 +21,7 @@ Download model.zip file, unzip it at the location of your choice.
 In the predict.py file, variable "HiCfilename" (line 10),  enter the path of your HIC map.
 You may want to change the name of the output file, this can be done line 41
 
+Note: in order to use a CPU instead of a GPU, please change the shape format order from (1,33,33) to (33,33,1) as CPU does not support channel first.
 
 # Authors and acknowledgments
 Maxime Christophe, Wiam Mansouri, Antoine Szatkownik
